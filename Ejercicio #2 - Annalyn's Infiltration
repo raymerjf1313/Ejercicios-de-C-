@@ -1,31 +1,80 @@
-public static class QuestLogic
+using System;
+ 
+public class QuestLogicBeginner
 {
+    
     public static bool CanFastAttack(bool knightIsAwake)
     {
+        
         return !knightIsAwake;
     }
+ 
 
     public static bool CanSpy(bool knightIsAwake, bool archerIsAwake, bool prisonerIsAwake)
     {
+     
         return knightIsAwake || archerIsAwake || prisonerIsAwake;
     }
+ 
 
     public static bool CanSignalPrisoner(bool archerIsAwake, bool prisonerIsAwake)
     {
+        
         return prisonerIsAwake && !archerIsAwake;
     }
-
-    public static bool CanFreePrisoner(
-        bool knightIsAwake,
-        bool archerIsAwake,
-        bool prisonerIsAwake,
-        bool petDogIsPresent)
+ 
+ 
+    public static bool CanFreePrisoner(bool knightIsAwake, bool archerIsAwake, bool prisonerIsAwake, bool petDogIsPresent)
     {
+       
         if (petDogIsPresent)
         {
+          
             return !archerIsAwake;
         }
-
-        return prisonerIsAwake && !knightIsAwake && !archerIsAwake;
+        
+        else
+        {
+            
+            return prisonerIsAwake && !knightIsAwake && !archerIsAwake;
+        }
+    }
+ 
+    public static void Main()
+    {
+        Console.WriteLine("=== QUEST LOGIC EXAMPLES ===\n");
+ 
+        
+        Console.WriteLine("1. FAST ATTACK");
+        Console.WriteLine("¿Puedes atacar rápido si el caballero está despierto?");
+        Console.WriteLine(CanFastAttack(true));  
+        Console.WriteLine("¿Puedes atacar rápido si el caballero está durmiendo?");
+        Console.WriteLine(CanFastAttack(false)); 
+        Console.WriteLine();
+ 
+       
+        Console.WriteLine("2. SPY");
+        Console.WriteLine("¿Puedes espiar si todos están durmiendo?");
+        Console.WriteLine(CanSpy(false, false, false)); 
+        Console.WriteLine("¿Puedes espiar si el arquero está despierto?");
+        Console.WriteLine(CanSpy(false, true, false));  
+        Console.WriteLine();
+ 
+        
+        Console.WriteLine("3. SIGNAL PRISONER");
+        Console.WriteLine("¿Puedes señalar si el prisionero está despierto y el arquero durmiendo?");
+        Console.WriteLine(CanSignalPrisoner(false, true)); 
+        Console.WriteLine("¿Puedes señalar si el arquero está despierto?");
+        Console.WriteLine(CanSignalPrisoner(true, true));  
+        Console.WriteLine();
+ 
+        
+        Console.WriteLine("4. FREE PRISONER");
+        Console.WriteLine("¿Puedes liberar con perro si el arquero está durmiendo?");
+        Console.WriteLine(CanFreePrisoner(true, false, true, true)); 
+        Console.WriteLine("¿Puedes liberar sin perro si todos están durmiendo?");
+        Console.WriteLine(CanFreePrisoner(false, false, true, false));
+        Console.WriteLine("¿Puedes liberar sin perro si el caballero está despierto?");
+        Console.WriteLine(CanFreePrisoner(true, false, true, false));  te ve
     }
 }
