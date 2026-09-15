@@ -1,0 +1,15 @@
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\bin\Debug\net10.0\EjercicioHelloWorld.exe
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\bin\Debug\net10.0\EjercicioHelloWorld.deps.json
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\bin\Debug\net10.0\EjercicioHelloWorld.runtimeconfig.json
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\bin\Debug\net10.0\EjercicioHelloWorld.dll
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\bin\Debug\net10.0\EjercicioHelloWorld.pdb
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.AssemblyInfoInputs.cache
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.AssemblyInfo.cs
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.csproj.CoreCompileInputs.cache
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.sourcelink.json
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.dll
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\refint\EjercicioHelloWorld.dll
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.pdb
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.genruntimeconfig.cache
+C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\ref\EjercicioHelloWorld.dll
