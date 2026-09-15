@@ -1,0 +1,15 @@
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.AssemblyInfoInputs.cache
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.AssemblyInfo.cs
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.sourcelink.json
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\bin\Debug\net10.0\Ejercicio6.exe
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\bin\Debug\net10.0\Ejercicio6.deps.json
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\bin\Debug\net10.0\Ejercicio6.runtimeconfig.json
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\bin\Debug\net10.0\Ejercicio6.dll
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\bin\Debug\net10.0\Ejercicio6.pdb
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.dll
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\refint\Ejercicio6.dll
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.pdb
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\Ejercicio6.genruntimeconfig.cache
+C:\Uni\Proyectos\Progamación #1\Ejercicio6\obj\Debug\net10.0\ref\Ejercicio6.dll
