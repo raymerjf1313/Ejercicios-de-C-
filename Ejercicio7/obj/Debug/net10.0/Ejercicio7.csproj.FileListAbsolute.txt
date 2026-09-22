@@ -12,3 +12,4 @@ C:\Users\Raymer\Desktop\Proyectos C#\Ejercicio7\obj\Debug\net10.0\refint\Ejercic
 C:\Users\Raymer\Desktop\Proyectos C#\Ejercicio7\obj\Debug\net10.0\Ejercicio7.pdb
 C:\Users\Raymer\Desktop\Proyectos C#\Ejercicio7\obj\Debug\net10.0\Ejercicio7.genruntimeconfig.cache
 C:\Users\Raymer\Desktop\Proyectos C#\Ejercicio7\obj\Debug\net10.0\ref\Ejercicio7.dll
+C:\Users\Raymer\Desktop\Proyectos C#\Ejercicio7\obj\Debug\net10.0\Ejercicio7.sourcelink.json

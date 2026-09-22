@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj": {}
+    "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioNeedForSpeed\\EjercicioNeedForSpeed.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioNeedForSpeed\\EjercicioNeedForSpeed.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj",
-        "projectName": "EjercicioHelloWorld",
-        "projectPath": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioNeedForSpeed\\EjercicioNeedForSpeed.csproj",
+        "projectName": "EjercicioNeedForSpeed",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioNeedForSpeed\\EjercicioNeedForSpeed.csproj",
         "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\obj\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioNeedForSpeed\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config"
