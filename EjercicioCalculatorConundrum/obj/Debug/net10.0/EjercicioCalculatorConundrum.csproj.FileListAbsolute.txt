@@ -1,0 +1,15 @@
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\bin\Debug\net10.0\EjercicioCalculatorConundrum.exe
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\bin\Debug\net10.0\EjercicioCalculatorConundrum.deps.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\bin\Debug\net10.0\EjercicioCalculatorConundrum.runtimeconfig.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\bin\Debug\net10.0\EjercicioCalculatorConundrum.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\bin\Debug\net10.0\EjercicioCalculatorConundrum.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\refint\EjercicioCalculatorConundrum.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\EjercicioCalculatorConundrum.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioCalculatorConundrum\obj\Debug\net10.0\ref\EjercicioCalculatorConundrum.dll
