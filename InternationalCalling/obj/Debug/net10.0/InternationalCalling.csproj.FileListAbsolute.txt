@@ -1,0 +1,15 @@
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\bin\Debug\net10.0\InternationalCalling.exe
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\bin\Debug\net10.0\InternationalCalling.deps.json
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\bin\Debug\net10.0\InternationalCalling.runtimeconfig.json
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\bin\Debug\net10.0\InternationalCalling.dll
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\bin\Debug\net10.0\InternationalCalling.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.dll
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\refint\InternationalCalling.dll
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\InternationalCalling.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\Proyectos C#\InternationalCalling\obj\Debug\net10.0\ref\InternationalCalling.dll
