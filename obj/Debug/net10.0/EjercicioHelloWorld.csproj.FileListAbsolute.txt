@@ -13,3 +13,11 @@ C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\refint\Ej
 C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.pdb
 C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\EjercicioHelloWorld.genruntimeconfig.cache
 C:\Uni\Proyectos\Progamación #1\EjercicioHelloWorld\obj\Debug\net10.0\ref\EjercicioHelloWorld.dll
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.dll
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\refint\EjercicioHelloWorld.dll
+C:\Users\Raymer\Desktop\Proyectos C#\obj\Debug\net10.0\EjercicioHelloWorld.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Uni\\Proyectos\\Progamación #1\\EjercicioHelloWorld\\EjercicioHelloWorld.csproj": {}
+    "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Uni\\Proyectos\\Progamación #1\\EjercicioHelloWorld\\EjercicioHelloWorld.csproj": {
+    "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Uni\\Proyectos\\Progamación #1\\EjercicioHelloWorld\\EjercicioHelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj",
         "projectName": "EjercicioHelloWorld",
-        "projectPath": "C:\\Uni\\Proyectos\\Progamación #1\\EjercicioHelloWorld\\EjercicioHelloWorld.csproj",
-        "packagesPath": "C:\\Users\\RaymerFerrera\\.nuget\\packages\\",
-        "outputPath": "C:\\Uni\\Proyectos\\Progamación #1\\EjercicioHelloWorld\\obj\\",
+        "projectPath": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\EjercicioHelloWorld.csproj",
+        "packagesPath": "C:\\Users\\Raymer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Raymer\\Desktop\\Proyectos C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RaymerFerrera\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Raymer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

@@ -1,0 +1,15 @@
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\bin\Debug\net10.0\EjercicioBirdwatcher.exe
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\bin\Debug\net10.0\EjercicioBirdwatcher.deps.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\bin\Debug\net10.0\EjercicioBirdwatcher.runtimeconfig.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\bin\Debug\net10.0\EjercicioBirdwatcher.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\bin\Debug\net10.0\EjercicioBirdwatcher.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\refint\EjercicioBirdwatcher.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\EjercicioBirdwatcher.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBirdwatcher\obj\Debug\net10.0\ref\EjercicioBirdwatcher.dll

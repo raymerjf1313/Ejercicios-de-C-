@@ -1,0 +1,15 @@
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\bin\Debug\net10.0\LogsLogsLogs.exe
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\bin\Debug\net10.0\LogsLogsLogs.deps.json
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\bin\Debug\net10.0\LogsLogsLogs.runtimeconfig.json
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\bin\Debug\net10.0\LogsLogsLogs.dll
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\bin\Debug\net10.0\LogsLogsLogs.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.dll
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\refint\LogsLogsLogs.dll
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\LogsLogsLogs.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\Proyectos C#\LogsLogsLogs\obj\Debug\net10.0\ref\LogsLogsLogs.dll
