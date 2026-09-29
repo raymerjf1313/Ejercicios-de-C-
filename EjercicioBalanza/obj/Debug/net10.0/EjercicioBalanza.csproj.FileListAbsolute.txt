@@ -1,0 +1,15 @@
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\bin\Debug\net10.0\EjercicioBalanza.exe
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\bin\Debug\net10.0\EjercicioBalanza.deps.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\bin\Debug\net10.0\EjercicioBalanza.runtimeconfig.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\bin\Debug\net10.0\EjercicioBalanza.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\bin\Debug\net10.0\EjercicioBalanza.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\refint\EjercicioBalanza.dll
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\EjercicioBalanza.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\Proyectos C#\EjercicioBalanza\obj\Debug\net10.0\ref\EjercicioBalanza.dll
