@@ -1,0 +1,47 @@
+﻿using System;
+
+public class Lasagna
+{
+    public int ExpectedMinutesInOven()
+    {
+        return 40;
+    }
+
+    public int RemainingMinutesInOven(int minutesInOven)
+    {
+        return 40 - minutesInOven;
+    }
+
+    public int PreparationTimeInMinutes(int layers)
+    {
+        return layers * 2;
+    }
+
+    public int ElapsedTimeInMinutes(int layers, int minutesInOven)
+    {
+        return PreparationTimeInMinutes(layers) + minutesInOven;
+    }
+
+    public static void Main()
+    {
+        Lasagna lasagna = new Lasagna();
+
+       Console.WriteLine("Expected Minutes In Oven");
+        Console.WriteLine(lasagna.ExpectedMinutesInOven());
+        Console.WriteLine();
+
+        Console.WriteLine("Remaining Minutes In Oven");
+        Console.WriteLine(lasagna.RemainingMinutesInOven(15));
+        Console.WriteLine(lasagna.RemainingMinutesInOven(30));
+        Console.WriteLine();
+
+        Console.WriteLine("Preparation Time In Minutes");
+        Console.WriteLine(lasagna.PreparationTimeInMinutes(3));
+        Console.WriteLine(lasagna.PreparationTimeInMinutes(5));
+        Console.WriteLine();
+
+        Console.WriteLine("Elapsed Time In Minutes");
+        Console.WriteLine(lasagna.ElapsedTimeInMinutes(3, 20));
+        Console.WriteLine(lasagna.ElapsedTimeInMinutes(5, 25));
+    }
+}
