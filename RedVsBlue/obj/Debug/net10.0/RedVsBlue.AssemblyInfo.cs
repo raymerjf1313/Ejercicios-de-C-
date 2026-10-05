@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RedVsBlue")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc73ca0235fbb05374511b2af7a8ff2d00685bc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35ae1ca320f508fb17d0e5679e514c4d215e9384")]
 [assembly: System.Reflection.AssemblyProductAttribute("RedVsBlue")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RedVsBlue")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
