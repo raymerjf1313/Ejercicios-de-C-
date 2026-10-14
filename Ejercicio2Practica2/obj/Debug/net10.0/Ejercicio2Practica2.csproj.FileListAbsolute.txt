@@ -1,0 +1,15 @@
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\bin\Debug\net10.0\Ejercicio2Practica2.exe
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\bin\Debug\net10.0\Ejercicio2Practica2.deps.json
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\bin\Debug\net10.0\Ejercicio2Practica2.runtimeconfig.json
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\bin\Debug\net10.0\Ejercicio2Practica2.dll
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\bin\Debug\net10.0\Ejercicio2Practica2.pdb
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.AssemblyInfoInputs.cache
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.AssemblyInfo.cs
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.csproj.CoreCompileInputs.cache
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.sourcelink.json
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.dll
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\refint\Ejercicio2Practica2.dll
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.pdb
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\Ejercicio2Practica2.genruntimeconfig.cache
+C:\Uni\Proyectos\Progamación #1\Ejercicio2Practica2\obj\Debug\net10.0\ref\Ejercicio2Practica2.dll

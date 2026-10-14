@@ -1,0 +1,15 @@
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\bin\Debug\net10.0\RedVsBlue.exe
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\bin\Debug\net10.0\RedVsBlue.deps.json
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\bin\Debug\net10.0\RedVsBlue.runtimeconfig.json
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\bin\Debug\net10.0\RedVsBlue.dll
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\bin\Debug\net10.0\RedVsBlue.pdb
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.AssemblyInfoInputs.cache
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.AssemblyInfo.cs
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.csproj.CoreCompileInputs.cache
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.sourcelink.json
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.dll
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\refint\RedVsBlue.dll
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.pdb
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\RedVsBlue.genruntimeconfig.cache
+C:\Uni\Proyectos\Progamación #1\RedVsBlue\obj\Debug\net10.0\ref\RedVsBlue.dll
