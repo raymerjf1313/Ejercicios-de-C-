@@ -1,0 +1,15 @@
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\bin\Debug\net10.0\SnakeProgram.exe
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\bin\Debug\net10.0\SnakeProgram.deps.json
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\bin\Debug\net10.0\SnakeProgram.runtimeconfig.json
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\bin\Debug\net10.0\SnakeProgram.dll
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\bin\Debug\net10.0\SnakeProgram.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.AssemblyInfoInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.AssemblyInfo.cs
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.sourcelink.json
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.dll
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\refint\SnakeProgram.dll
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.pdb
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\SnakeProgram.genruntimeconfig.cache
+C:\Users\Raymer\Desktop\Proyectos C#\Snake Project\SnakeProgram\obj\Debug\net10.0\ref\SnakeProgram.dll
