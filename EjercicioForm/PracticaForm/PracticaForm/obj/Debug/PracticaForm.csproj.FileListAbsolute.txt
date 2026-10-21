@@ -1,0 +1,10 @@
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\bin\Debug\PracticaForm.exe.config
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\bin\Debug\PracticaForm.exe
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\bin\Debug\PracticaForm.pdb
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.csproj.AssemblyReference.cache
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.Form1.resources
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.Properties.Resources.resources
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.csproj.GenerateResource.cache
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.exe
+C:\Users\Raymer\source\repos\PracticaForm\PracticaForm\obj\Debug\PracticaForm.pdb
