@@ -1,0 +1,7 @@
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\bin\Debug\SistemaProductos.exe.config
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\bin\Debug\SistemaProductos.exe
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\bin\Debug\SistemaProductos.pdb
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\obj\Debug\SistemaProductos.csproj.AssemblyReference.cache
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\obj\Debug\SistemaProductos.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\obj\Debug\SistemaProductos.exe
+C:\Users\Raymer\Documents\Programacion\Parcial\SistemaProductos\SistemaProductos\obj\Debug\SistemaProductos.pdb
