@@ -1,0 +1,15 @@
+C:\Users\Raymer\Downloads\Banco\bin\Debug\net8.0\Banco.exe
+C:\Users\Raymer\Downloads\Banco\bin\Debug\net8.0\Banco.deps.json
+C:\Users\Raymer\Downloads\Banco\bin\Debug\net8.0\Banco.runtimeconfig.json
+C:\Users\Raymer\Downloads\Banco\bin\Debug\net8.0\Banco.dll
+C:\Users\Raymer\Downloads\Banco\bin\Debug\net8.0\Banco.pdb
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.AssemblyInfo.cs
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.dll
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\refint\Banco.dll
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.pdb
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.genruntimeconfig.cache
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\ref\Banco.dll
+C:\Users\Raymer\Downloads\Banco\obj\Debug\net8.0\Banco.csproj.Up2Date
