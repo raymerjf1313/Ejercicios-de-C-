@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Ejercicio1_Interfaces/Ejercicio1_Interfaces.csproj" />
+  <Project Path="Ejercicio2_FactoryMethod/Ejercicio2_FactoryMethod.csproj" />
+  <Project Path="Ejercicio3_SOLID/Ejercicio3_SOLID.csproj" />
+</Solution>

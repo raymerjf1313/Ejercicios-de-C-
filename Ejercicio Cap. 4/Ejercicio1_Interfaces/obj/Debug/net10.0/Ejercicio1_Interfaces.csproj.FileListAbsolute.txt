@@ -1,0 +1,14 @@
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\bin\Debug\net10.0\Ejercicio1_Interfaces.exe
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\bin\Debug\net10.0\Ejercicio1_Interfaces.deps.json
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\bin\Debug\net10.0\Ejercicio1_Interfaces.runtimeconfig.json
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\bin\Debug\net10.0\Ejercicio1_Interfaces.dll
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\bin\Debug\net10.0\Ejercicio1_Interfaces.pdb
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.AssemblyInfo.cs
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.dll
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\refint\Ejercicio1_Interfaces.dll
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.pdb
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\Ejercicio1_Interfaces.genruntimeconfig.cache
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio1_Interfaces\obj\Debug\net10.0\ref\Ejercicio1_Interfaces.dll

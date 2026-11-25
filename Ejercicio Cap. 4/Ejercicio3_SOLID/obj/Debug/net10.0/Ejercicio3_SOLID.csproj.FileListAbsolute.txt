@@ -1,0 +1,14 @@
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\bin\Debug\net10.0\Ejercicio3_SOLID.exe
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\bin\Debug\net10.0\Ejercicio3_SOLID.deps.json
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\bin\Debug\net10.0\Ejercicio3_SOLID.runtimeconfig.json
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\bin\Debug\net10.0\Ejercicio3_SOLID.dll
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\bin\Debug\net10.0\Ejercicio3_SOLID.pdb
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.AssemblyInfoInputs.cache
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.AssemblyInfo.cs
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.dll
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\refint\Ejercicio3_SOLID.dll
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.pdb
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\Ejercicio3_SOLID.genruntimeconfig.cache
+C:\Users\Raymer\source\repos\Ejercicio Cap. 4\Ejercicio3_SOLID\obj\Debug\net10.0\ref\Ejercicio3_SOLID.dll
