@@ -1,0 +1,28 @@
+@model Usuario
+@using System.Globalization
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+<h3>¿Seguro que deseas eliminar este usuario?</h3>
+<hr />
+
+<dl class="row">
+    <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Perfil)</dt>
+    <dd class="col-sm-9">@Model.Perfil</dd>
+    <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Email)</dt>
+    <dd class="col-sm-9">@Model.Email</dd>
+    <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Edad)</dt>
+    <dd class="col-sm-9">@Model.Edad</dd>
+    <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Activo)</dt>
+    <dd class="col-sm-9">@(Model.Activo ? "Si" : "No")</dd>
+    <dt class="col-sm-3">@Html.DisplayNameFor(m => m.Balance)</dt>
+    <dd class="col-sm-9">@Model.Balance.ToString("$#,0.00", CultureInfo.InvariantCulture)</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Delete</button> |
+    <a asp-action="Index">Back to List</a>
+</form>

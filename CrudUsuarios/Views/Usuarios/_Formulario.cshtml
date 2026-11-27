@@ -1,0 +1,32 @@
+@model Usuario
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<div class="mb-3">
+    <label asp-for="Perfil" class="form-label"></label>
+    <select asp-for="Perfil" class="form-select">
+        <option value="">-- Seleccione --</option>
+        <option value="Admin">Admin</option>
+        <option value="Customer">Customer</option>
+    </select>
+    <span asp-validation-for="Perfil" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Email" class="form-label"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Edad" class="form-label"></label>
+    <input asp-for="Edad" class="form-control" />
+    <span asp-validation-for="Edad" class="text-danger"></span>
+</div>
+<div class="mb-3">
+    <label asp-for="Balance" class="form-label"></label>
+    <input asp-for="Balance" class="form-control" step="0.01" />
+    <span asp-validation-for="Balance" class="text-danger"></span>
+</div>
+<div class="form-check mb-3">
+    <input asp-for="Activo" class="form-check-input" />
+    <label asp-for="Activo" class="form-check-label"></label>
+</div>
